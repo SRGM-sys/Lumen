@@ -64,6 +64,16 @@ com.example.menuaplication/
 
 ---
 
+## Imagen de la app
+
+<div align="center">
+  <img src="./Captura1.jpeg" width="45%" alt="Captura del menú">
+  <br>
+  <em>Captura que muestra el menú de la app.</em>
+</div>
+
+---
+
 ## 👥 Equipo de Desarrollo
 
 Este prototipo fue construido colaborativamente por:
