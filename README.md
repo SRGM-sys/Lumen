@@ -60,3 +60,17 @@ com.example.menuaplication/
     ├── hidratacion/    # Tracking de agua
     ├── sostenibilidad/ # Tracking ecológico
     └── [juegos]/       # Activities de cada minijuego
+```
+
+---
+
+## 👥 Equipo de Desarrollo
+
+Este prototipo fue construido colaborativamente por:
+
+- **José Paladines** (1Mejor2345)
+- **Santiago Gómez** (SRGM-sys)
+- **Matías Sánchez** (TheMattias1127)
+- **Erwin Mora**     (Erwin-Mora)
+
+Desarrollado para el **Proyecto de POO**
